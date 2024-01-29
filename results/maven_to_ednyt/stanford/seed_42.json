@@ -1,0 +1,71 @@
+{
+    "0_shot_pretrained_on_source": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/35y5qyea",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/3vcjagar",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/fcmfzb96"
+    },
+    "0_shot_from_roberta": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/3qwi9wk6",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/zxi8t010",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/45ivgwu8"
+    },
+    "5_shot_from_roberta": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/2f6kawv3",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/1k8598wj",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/2nklyxhg"
+    },
+    "10_shot_from_roberta": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/65y9svd7",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/1tkvt2dh",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/23kfgiq2"
+    },
+    "50_shot_from_roberta": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/2wtjklyb",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/x3uqsxx6",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/1stjs6qz"
+    },
+    "100_shot_from_roberta": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/1899of4l",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/3cp7npb9",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/17sa7cwh"
+    },
+    "250_shot_from_roberta": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/2amxugzg",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/25q6ocsn",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/1r850cot"
+    },
+    "500_shot_from_roberta": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/i9ka8luu",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/3sdv1tel",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/kyud79am"
+    },
+    "seq_5_shot_pretrained_on_source": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/10pqmy37",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/37cxypz4",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/2s1yols3"
+    },
+    "seq_10_shot_pretrained_on_source": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/1i4wb87f",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/2910zai8",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/g9yshkcb"
+    },
+    "seq_50_shot_pretrained_on_source": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/3tu3yr7s",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/fncio6vf",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/2srecqhz"
+    },
+    "seq_100_shot_pretrained_on_source": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/1n11astw",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/1vvqkvuk",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/cm6snmm0"
+    },
+    "seq_250_shot_pretrained_on_source": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/2637wtde",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/5i7h2l5x",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/3uedqeoo"
+    },"seq_500_shot_pretrained_on_source": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/3ccl0ad9",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/6fuimax3",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/r61piyz7"
+    }
+}

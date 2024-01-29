@@ -1,0 +1,7 @@
+{
+    "0_shot_pretrained_on_source": {
+        "vanilla": "https://wandb.ai/ddukic/oee-paper/runs/34a7uxei",
+        "implicit_multitask": "https://wandb.ai/ddukic/oee-paper/runs/2r84brsb",
+        "two_head_multitask": "https://wandb.ai/ddukic/oee-paper/runs/2x823aez"
+    }
+}
