@@ -7,10 +7,19 @@ While the notion of triggers should ideally be universal across domains, domain 
 
 ## Citing
 ```
-@article{dukic2023leveraging,
-  title={Leveraging Open Information Extraction for More Robust Domain Transfer of Event Trigger Detection},
-  author={Duki{\'c}, David and Gashteovski, Kiril and Glava{\v{s}}, Goran and {\v{S}}najder, Jan},
-  journal={arXiv preprint arXiv:2305.14163},
-  year={2023}
-}
-```
+@inproceedings{dukic-etal-2024-leveraging,
+    title = "Leveraging Open Information Extraction for More Robust Domain Transfer of Event Trigger Detection",
+    author = "Duki{\'c}, David  and
+      Gashteovski, Kiril  and
+      Glava{\v{s}}, Goran  and
+      Snajder, Jan",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Findings of the Association for Computational Linguistics: EACL 2024",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-eacl.80",
+    pages = "1197--1213"
+}```
