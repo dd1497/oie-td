@@ -22,4 +22,5 @@ While the notion of triggers should ideally be universal across domains, domain 
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.findings-eacl.80",
     pages = "1197--1213"
-}```
+}
+```
